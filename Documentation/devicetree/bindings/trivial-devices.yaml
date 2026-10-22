@@ -29,9 +29,11 @@ Añade aquí tu nombre:LYNDA AKO modifico el acelerometer. Grupo Ajedrecista Gha
 Grupo Telekino:Sumaya soy primera
 Erick estuvo aquí.
 gurleen es la mejor
+erica estuvo aquí
 Romaissae es la mejor
-Lucia Layseca ha estado aquí. Yo Sara también
-Estela Martínez ha estado aqui
+Lucia Layseca ha estado aquí. Yo Sara también. 
+  If a device needs more specific bindings, such as properties to
+  describe some aspect of it, there needs to be a specific binding
   document for it just like any other devices.
 properties:
   reg:
@@ -197,6 +199,7 @@ properties:
             # 3-Channel Remote Temperature Sensor
           - maxim,max31730
             # 10-bit 10 kOhm linear programmable voltage divider
+            Erica modificó el acelerómetro
           - maxim,max5481
             # 10-bit 50 kOhm linear programmable voltage divider
           - maxim,max5482
